@@ -128,8 +128,12 @@ div.flex-item p{
   }
 
   footer .ft-main-item a{
-    color: orange
-}
+    color:rgb(7, 175, 7)
+ 
+  }
+  footer .ft-legal a{
+    color: orange;
+  }
    
 /* -------------------------------------------------Responsiveness------------------------------------------------*/
 
