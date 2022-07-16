@@ -137,7 +137,7 @@ div.flex-item p{
    
 /* -------------------------------------------------Responsiveness------------------------------------------------*/
 
-/* Media Query Phone*/
+/* Media Query for Phone*/
   @media (min-width: 768px) and (max-width: 1024px) {
     div.flex-row{
        display: flex;
